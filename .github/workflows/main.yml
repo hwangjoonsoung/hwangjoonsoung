@@ -30,4 +30,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
