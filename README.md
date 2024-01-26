@@ -1,38 +1,64 @@
-# main edit2
+[//]: # (https://profilinator.rishav.dev/ 자동으로 꾸며주는 site)
 
 
-<a target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangjoonsoung&show_icons=true&theme=radical)
+##  My Skill Set
+<table>
+  <tr>
+    <td valign="top" width="25%">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?
-url=https%3A%2F%2Fgithub.com%2Fbi-sz&count_bg=%23FFB6F3&title_bg=%23555555&icon=&
-icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
+### Language
+<div align="center">
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 
-[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?
-username=hwangjoonsoung&include_all_commits=true&show_icons=true&theme=cobalt)]
-(https://github.com/bi-sz/github-readme-stats)
+[//]: # (<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  )
+<br/>
 
-<a href="https://velog.io/@bi-sz">
-<img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-</a>
+[//]: # (<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> )
+[//]: # (<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  )
+</div>
+</td>
 
-<a href="https://velog.io/@bi-sz">
-<img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Mysql&logoColor=white"> 
-</a>
-<a href="https://velog.io/@bi-sz">
-<img src="https://img.shields.io/badge/Kotlin-20c997?style=for-the-badge&logo=kotlin&logoColor=white"> 
-</a><br>
+<td valign="top" width="25%">
 
+### Framework
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
+<br/>
 
-**hwangjoonsoung/hwangjoonsoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[//]: # (<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  )
+[//]: # (<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  )
+</div>
+</td>
+<td valign="top" width="25%">
 
-Here are some ideas to get you started:
+### DB
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[//]: # (<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  )
+[//]: # (<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  )
+</div>
+</td>
+<td valign="top" width="25%">
+
+### DevOps
+<div align="center">  
+
+[//]: # (<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  )
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+
+[//]: # (<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  )
+[//]: # (<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" />  )
+</div>
+</td>
+</tr>
+</table>  
+
+<br/>  
+
+## Github Stats
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=jaeykweon&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+
+## Coding Time
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jaeykweon&layout=compact&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
