@@ -163,7 +163,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hwangjoonsoung&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
 <!-- My snake -->
-<img src="https://github.com/hwangjoonsoung/hwangjoonsoung/blob/output/mysnake.svg" width="100%">
+<img src="https://github.com/hwangjoonsoung/hwangjoonsoung/blob/output/github-snake-dark.svg" width="100%">
 
 [//]: # (<br><br>)
 <!-- Hit counter -->
