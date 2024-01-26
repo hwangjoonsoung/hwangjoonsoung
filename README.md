@@ -1,4 +1,4 @@
-<div align="center" style="background : black">
+<div align="center" style="background-color: rgba(0,0,0,0.26)">
 <!-- Header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 <br><br>
@@ -163,7 +163,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hwangjoonsoung&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
 <!-- My snake -->
-<img src="https://github.com/hwangjoonsoung/hwangjoonsoung/blob/output/github-snake-dark.svg" width="100%">
+<img src="https://github.com/hwangjoonsoung/hwangjoonsoung/blob/output/mysnake.svg" width="100%">
 
 [//]: # (<br><br>)
 <!-- Hit counter -->
